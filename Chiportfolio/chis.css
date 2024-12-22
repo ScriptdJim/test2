@@ -1,0 +1,14 @@
+body {
+    background-color: #e5d51e;
+    font-family: sans-serif;
+    color: #630b0b;
+  }
+nav {
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: chocolate;
+}
+nav ul {
+    list-style: none;
+}
