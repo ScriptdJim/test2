@@ -2,9 +2,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-background-image: url("kyportfolio/LotusImages/liliana-olivares-g56O5L0ZVmg-unsplash.jpg");
-background-repeat: no-repeat;
-background-size: cover;
+    background-image: url("LotusImages/liliana-olivares-g56O5L0ZVmg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header {
